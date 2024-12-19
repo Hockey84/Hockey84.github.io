@@ -1,21 +1,21 @@
-# Download Browser Files Compatible with Chrome OS  
+# Download Browsers for Chrome OS (No Linux or Google Play Required)  
 
-Click the buttons below to download browser installation files compatible with Chrome OS's **Linux (Beta)** environment:  
+Click the buttons below to access browser download files compatible with Chrome OS **without requiring Linux (Beta)** or **Google Play Store**:  
 
 ```html
-<!-- Firefox for Linux (Debian Package) -->
-<a href="https://ftp.mozilla.org/pub/firefox/releases/latest/linux-x86_64/en-US/firefox-setup.tar.bz2" download>
-  <button style="padding: 10px 20px; font-size: 16px; background: #FF7139; color: white; border: none; cursor: pointer;">
-    Download Firefox (Linux)
+<!-- Bromite Browser (Direct APK Download for Sideloading) -->
+<a href="https://www.bromite.org/download" target="_blank" rel="noopener noreferrer">
+  <button style="padding: 10px 20px; font-size: 16px; background: #4285F4; color: white; border: none; cursor: pointer;">
+    Download Bromite (Privacy-Focused)
   </button>
 </a>
 
-<!-- Brave Browser for Linux (Debian Package) -->
-<a href="https://brave-browser-apt-release.s3.brave.com/brave-browser_amd64.deb" download>
+<!-- Ungoogled Chromium Browser (Direct Package Download) -->
+<a href="https://github.com/Eloston/ungoogled-chromium/releases/latest" target="_blank" rel="noopener noreferrer">
   <button style="padding: 10px 20px; font-size: 16px; background: #FF6600; color: white; border: none; cursor: pointer;">
-    Download Brave (Linux)
+    Download Ungoogled Chromium
   </button>
 </a>
 
-<!-- Vivaldi Browser for Linux (Debian Package) -->
-<a href="https://downloads.vivaldi.com/sta
+<!-- Web Browser for Chrome OS (Web Access) -->
+<a href="ht
