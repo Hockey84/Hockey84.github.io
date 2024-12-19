@@ -1,22 +1,11 @@
-# Opera GX Browser Bundle
+# Download Opera GX Button
 
-This is a bundle containing everything you need to get started with the Opera GX browser.
+Click the button below to download Opera GX without leaving this page:
 
-## Contents:
-- **Opera GX Setup.exe**: The installer for the Opera GX browser.
-- **Assets**:
-  - **Logo**: The official Opera GX logo image.
-  - **Wallpaper**: A wallpaper for a gaming theme.
-  - **Screenshot**: A screenshot showing the Opera GX interface.
-- **README.md**: This file you're reading.
-
-## Installation Instructions:
-1. Download **Opera GX Setup.exe** and run it.
-2. Follow the on-screen instructions to install Opera GX on your computer.
-3. Use the provided **assets** for customizing your browser experience or creating content.
-
-## About Opera GX:
-Opera GX is a gaming browser designed to give users the ultimate control over their system resources and browsing experience. With unique features like GX Cleaner, Twitch integration, and customizable performance limits, Opera GX is built for gamers who want more out of their browser.
-
-## License:
-This bundle contains resources and the installer for Opera GX. All assets are provided by Opera Software. For more details, visit [Opera's License Agreement](https://www.opera.com/eula).
+```html
+<!-- HTML Button -->
+<a href="https://download1.operacdn.com/pub/opera_gx/desktop/97.0.4719.84/win/OperaGXSetup.exe" download>
+  <button style="padding: 10px 20px; font-size: 16px; background: #ff1b2d; color: white; border: none; cursor: pointer;">
+    Download Opera GX
+  </button>
+</a>
